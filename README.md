@@ -5,7 +5,7 @@
 <hr>
 <ul>
     <li>Pizza Menu</li>
-    <li>Tic Tac Toe Game</li>
+    <li><a href="https://github.com/craiglectric/javascript/tree/main/Pizza%20Project">Tic Tac Toe Game</a></li>
     <li>Calculator </li>
 </ul>
 <hr>

@@ -4,9 +4,9 @@
 <h1> Projects</h1>
 <hr>
 <ul>
-    <li>Pizza Menu</li>
-    <li><a href="https://github.com/craiglectric/javascript/tree/main/Pizza%20Project">Tic Tac Toe Game</a></li>
-    <li>Calculator </li>
+    <li><a href="https://github.com/craiglectric/javascript/tree/main/Pizza%20Project">Pizza Menu</a></li>
+    <li><a href="https://github.com/craiglectric/javascript/tree/main/Tic%20Tac%20Toe%20project">Tic Tac Toe Game</a></li>
+    <li> <a href="https://github.com/craiglectric/javascript/tree/main/Calculator%20project">Calculator</a></li>
 </ul>
 <hr>
 <h1>Pizza Menu</h1>
